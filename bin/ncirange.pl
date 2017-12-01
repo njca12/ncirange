@@ -109,7 +109,7 @@ mol selection {all}
 mol material Opaque
 mol addrep top
 mol representation CPK 1.000000 0.300000 118.000000 131.000000
-mol color Name
+mol color Element
 mol selection {all}
 mol material Opaque
 mol addrep top
