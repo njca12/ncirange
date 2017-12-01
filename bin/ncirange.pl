@@ -104,7 +104,7 @@ mol addfile $prefix-rang.cube type cube first 0 last -1 step 1 filebonds 1 autob
 # representation of the atoms
 mol delrep 0 top
 mol representation Lines 1.00000
-mol color Name
+mol color Element
 mol selection {all}
 mol material Opaque
 mol addrep top
